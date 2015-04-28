@@ -1,4 +1,4 @@
-*Forked from https://github.com/dylanjha/rails-angular-boilerplate
+*Based on https://github.com/dylanjha/rails-angular-boilerplate
 
 Boilerplate for Rails & Angular
 
