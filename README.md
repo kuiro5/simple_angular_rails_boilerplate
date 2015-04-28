@@ -1,3 +1,5 @@
+*Forked from https://github.com/dylanjha/rails-angular-boilerplate
+
 Boilerplate for Rails & Angular
 
 1. `git clone git@github.com:dylanjha/rails-angular-boilerplate my_awesome_app`
